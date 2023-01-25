@@ -22,7 +22,7 @@ const userSchema = new Schema({
         type:String,
         trim:true,
     },
-    role:{
+    roll:{
         type:Number,
         default:0
     }
